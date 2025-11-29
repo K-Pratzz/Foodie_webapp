@@ -87,4 +87,24 @@ The design uses standard responsive breakpoints:
 ---
 
 ## 📷 Preview
+![s1](https://github.com/K-Pratzz/Foodie_webapp/blob/main/Screenshot%202025-11-29%20104058.png)
+
+--------------------------------------------------------------------------------------------------------
+
+![s2]( https://github.com/K-Pratzz/Foodie_webapp/blob/main/Screenshot%202025-11-29%20104118.png)
+
+----------------------------------------------------------------------------------------------------------
+
+![s3](https://github.com/K-Pratzz/Foodie_webapp/blob/main/Screenshot%202025-11-29%20104134.png)
+
+---------------------------------------------------------------------------------------------------------------
+
+![s4](https://github.com/K-Pratzz/Foodie_webapp/blob/main/Screenshot%202025-11-29%20104144.png)
+
+---------------------------------------------------------------------------------------------------------------------
+
+![s5](https://github.com/K-Pratzz/Foodie_webapp/blob/main/Screenshot%202025-11-29%20104153.png)
+
+
+
 
