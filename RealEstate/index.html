@@ -4,9 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="https://kit.fontawesome.com/256844ff2b.js" crossorigin="anonymous"></script>
     <link href="style.css" rel="stylesheet">
+    <link rel="icon" href="Screenshot 2025-12-05 150949.png" type="image/x-icon">
 </head>
 <body>
+    <header>
     <div id="headercontainer">
         <h1>DreamHome</h1>
         <div id="navtext">
@@ -17,12 +20,22 @@
             <a href="#">Contact</a>
         </div>
     </div>
+    </header>
     <div id="imgContainer">
         <h1 style="color:white">Find Your Home</h1>
         <p>Discover the best Properties for sale and rent</p>
     </div>
     <div id="location">
-        <input type="text" name="address" placeholder="Location">
+        <input type="text" name="address" placeholder="Location" list="loc">
+        <datalist id="loc">
+            <option value="Bihar"></option>
+            <option value="Maharashtra"></option>
+            <option value="Gurgaon"></option>
+            <option value="Haryana"></option>
+            <option value="Uttar Pradesh"></option>
+            <option value="Tamil Nadu"></option>
+            <option value="Jharkhand"></option>
+        </datalist>
         <select id="Price">
             <option><b>Price</b></option>
             <option value="2k">$2000</option>
@@ -170,6 +183,13 @@
                 <p>Email : @kp939331@gmail.com</p>
                 <p>Phone : +91 620XXXXXXX</p>
             </div> 
+            <div id="icons">
+                <h1 style="color:rgb(37,37,223)">Social Media</h1><br>
+                <i class="fab fa-instagram fa-lg" style="color:white;"></i>
+                <i class="fa-brands fa-x-twitter fa-lg" style="color:white;"></i>
+                <i class="fa-brands fa-facebook fa-lg" style="color:white"></i>
+
+            </div>
         </div>
     </footer>
 </body>
